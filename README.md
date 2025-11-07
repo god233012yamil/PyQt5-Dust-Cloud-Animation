@@ -24,8 +24,8 @@ The application displays an animated dust cloud rising from the bottom of the wi
 - Gradually fade and disappear
 - Vary in size for depth perception
 - Move with realistic turbulence
-- 
-  https://github.com/user-attachments/assets/fc192927-2cec-4418-9bf7-ef71caa112bf
+ 
+https://github.com/user-attachments/assets/fc192927-2cec-4418-9bf7-ef71caa112bf
 
 ## Requirements
 
